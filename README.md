@@ -69,7 +69,7 @@ Tasks: be able to view recipes and prep times.
 #### W3C Validator
 ![image alt](https://github.com/tgf101/daily-bite/blob/332e02684183d5f411d0a305a3259da4b37efb2b/Screenshot%202025-05-02%20at%2019.12.14.png)
 #### CSS Jigsaw validator
-- 'include images here'
+![image alt](https://github.com/tgf101/daily-bite/blob/96e69c5875a599f830b4353e5b82cb5b93a1ed04/Screenshot%202025-05-02%20at%2019.17.43.png)
 #### Lighthouse
 - **Desktop Report**
 -include image/notes here
