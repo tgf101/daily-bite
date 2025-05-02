@@ -67,7 +67,7 @@ Tasks: be able to view recipes and prep times.
 
 ### Automated Testing
 #### W3C Validator
-- 'include images'
+![image alt](https://github.com/tgf101/daily-bite/blob/332e02684183d5f411d0a305a3259da4b37efb2b/Screenshot%202025-05-02%20at%2019.12.14.png)
 #### CSS Jigsaw validator
 - 'include images here'
 #### Lighthouse
