@@ -3,10 +3,27 @@
 ( https://'yourlivelink.com')
 ![Am I responsive image](can include a path website image file stored in assets)
 ## Introduction
-' Type your introduction here '
+The Daily bite is a recipe website and it offeres clean and simple interface for users to explore food options, ranging from classic, savory, gluten free pancakes, focaccia, spicy pasta, and fattoush salad. I have made sure that it is mobile friendly and interactive. I created this using html and css. 
+
 ## User Experience (UX)
 ### User Stories (US)
-'write your users stories/tasks here'
+Stacey is a stay-at-home mother who is 28,
+married, with 3 kids, all under the ages of 6.
+She always makes sure that her kids eat
+healthier and be able to produce them quickly
+Her goals are to be able to find quick and healthy
+recipes.
+Taks: Be able to view recipes when i click on recipe link easily, view the ingredients and preperation time.
+
+Emma is she is an aspiring private chef; she is
+22, no kids and taking a gap year at culinary
+school. She has a passion for cooking and
+likes to experiment with different ingredients.
+She aims to find new recipes from all levels of
+cooking skills and improve her cooking skills to
+develop her own recipes.
+Tasks: be able to view recipes and prep times.
+
 - **your persona1 story and tasks**
 1. As a [persona], I [want to], [so that]
 **Tasks**
@@ -26,11 +43,10 @@
 ![View wireframes here]('path/link to the wireframes goes here')
 ## Development Process- 'finished product screenshots'
 ### Features
--
+- Responsive view recipe card.
+- navigation bar is fixed to the top of the page. 
 ### navigation
--
-### header
--
+-navigation bar fixed with links to home, recipes, and sign up page. 
 ### webpage 1
 -
 ### webpage 2
@@ -43,10 +59,12 @@
 -
 ## Deployment & Local Development
 ### Deployment
-- instruction goes here
+- I put my project in github repository.
+- I made sure that all my file paths were case-sensitive and had no spaces replacing with -
 ### Local Development
 - instruction goes here
 ## Testing
+
 ### Automated Testing
 #### W3C Validator
 - 'include images'
@@ -54,8 +72,6 @@
 - 'include images here'
 #### Lighthouse
 - **Desktop Report**
--include image/notes here
-- **Mobile Report**
 -include image/notes here
 #### Wave??
 -
