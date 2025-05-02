@@ -27,37 +27,17 @@ Tasks: be able to view recipes and prep times.
 - **your persona1 story and tasks**
 1. As a [persona], I [want to], [so that]
 **Tasks**
--
-### Design Choices -'change as per your needs include old and revised wireframes '
-![color pallette]('path to the image file for your colour pallet here')
-- I will be using ______ colour text against the ______background colours.
-- 'you notes goes here '
-- **typography**
-- your notes goes here
-- **Structure**
-- 'notes on any templates or framework used'
-- **Imagery**
-- 'notes on where you obtain the images for your website'
-- **Wireframes**
-- 'notes or why and what changes were made during revision'
-![View wireframes here]('path/link to the wireframes goes here')
+- 
+
+![image alt](https://github.com/tgf101/daily-bite/blob/e879784414346e9ce39422f73b51edde7451d352/Screenshot%202025-05-02%20at%2019.30.08.png)
+![image alt](https://github.com/tgf101/daily-bite/blob/4ef3c9f8102724339c094331a7afc09acc802b1b/Screenshot%202025-05-02%20at%2019.32.16.png)
+![image alt](https://github.com/tgf101/daily-bite/blob/9dc47d3148c23865fca243dc6e5415f4f456480b/Screenshot%202025-05-02%20at%2019.33.24.png)
 ## Development Process- 'finished product screenshots'
 ### Features
 - Responsive view recipe card.
 - navigation bar is fixed to the top of the page. 
 ### navigation
 -navigation bar fixed with links to home, recipes, and sign up page. 
-### webpage 1
--
-### webpage 2
-###
-###
-###
-### Footer
--
-### Frameworks, Libraries & Programs Used
--
-## Deployment & Local Development
 ### Deployment
 - I put my project in github repository.
 - I made sure that all my file paths were case-sensitive and had no spaces replacing with -
@@ -72,24 +52,21 @@ Tasks: be able to view recipes and prep times.
 ![image alt](https://github.com/tgf101/daily-bite/blob/96e69c5875a599f830b4353e5b82cb5b93a1ed04/Screenshot%202025-05-02%20at%2019.17.43.png)
 #### Accesibility Checker
 ![image alt](https://github.com/tgf101/daily-bite/blob/a70b8179001b24e86e13efb3da81bb2af7e3c403/Screenshot%202025-05-02%20at%2019.20.51.png)
-- **Desktop Report**
--include image/notes here
-#### Wave??
+
 -
 ### Manual Testing
-#### Testing User Stories
-- notes goes here
-#### Full Testing
-Full testing was done on the following devices:
--
-Full testing was done on the following browsers:
--
-#### Full Page Testing
-### Bugs
-#### Solved bugs
-#### Known Bugs
+- Tested all links (Home, Recipes, SignUp)
+- Checked images load on GitHub Pages after correcting file names
+- initially the images didnt load when i uploaded my files to github due to images not being in the folder and capital letters like JPG. 
+
 ## Credits/ References
+All sign up page from w3schools signup page 
+Recipe descriptions written by me.
+Recipe page link help from ChatGPT making the box layout 
 ### Code Used
+I used HTML and CSS
 ### Content
+Sign up page from here.(https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_signup_form) 
 ### Media
-### Research Material
+Images found from the website.
+
