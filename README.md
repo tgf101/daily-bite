@@ -24,11 +24,6 @@ cooking skills and improve her cooking skills to
 develop her own recipes.
 Tasks: be able to view recipes and prep times.
 
-- **your persona1 story and tasks**
-1. As a [persona], I [want to], [so that]
-**Tasks**
-- 
-
 ![image alt](https://github.com/tgf101/daily-bite/blob/e879784414346e9ce39422f73b51edde7451d352/Screenshot%202025-05-02%20at%2019.30.08.png)
 ![image alt](https://github.com/tgf101/daily-bite/blob/4ef3c9f8102724339c094331a7afc09acc802b1b/Screenshot%202025-05-02%20at%2019.32.16.png)
 ![image alt](https://github.com/tgf101/daily-bite/blob/9dc47d3148c23865fca243dc6e5415f4f456480b/Screenshot%202025-05-02%20at%2019.33.24.png)
@@ -41,11 +36,6 @@ Tasks: be able to view recipes and prep times.
 ### Deployment
 - I put my project in github repository.
 - I made sure that all my file paths were case-sensitive and had no spaces replacing with -
-### Local Development
-- instruction goes here
-## Testing
-
-### Automated Testing
 #### W3C Validator
 ![image alt](https://github.com/tgf101/daily-bite/blob/332e02684183d5f411d0a305a3259da4b37efb2b/Screenshot%202025-05-02%20at%2019.12.14.png)
 #### CSS Jigsaw validator
@@ -53,7 +43,6 @@ Tasks: be able to view recipes and prep times.
 #### Accesibility Checker
 ![image alt](https://github.com/tgf101/daily-bite/blob/a70b8179001b24e86e13efb3da81bb2af7e3c403/Screenshot%202025-05-02%20at%2019.20.51.png)
 
--
 ### Manual Testing
 - Tested all links (Home, Recipes, SignUp)
 - Checked images load on GitHub Pages after correcting file names
